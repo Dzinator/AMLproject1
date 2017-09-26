@@ -1,6 +1,4 @@
-comedy:
-
-2 people:
+-2
 http://comediatheque.net/le-joker/
 http://comediatheque.net/y-a-t-il-un-pilote-dans-la-salle/
 http://comediatheque.net/au-bout-du-rouleau/
@@ -9,8 +7,7 @@ http://comediatheque.net/meme-pas-mort/
 http://comediatheque.net/les-naufrages-du-costa-mucho/
 http://comediatheque.net/elle-et-lui-monologue-interactif/
 http://comediatheque.net/alban-et-eve/
-
-3 people:
+-3
 http://comediatheque.net/vendredi-13/
 http://comediatheque.net/petit-meurtre-consequence/
 http://comediatheque.net/dessous-de-table/
@@ -18,8 +15,7 @@ http://comediatheque.net/le-bistrot-du-hasard/
 http://comediatheque.net/crash-zone/
 http://comediatheque.net/menage-a-trois/
 http://comediatheque.net/cartes-sur-table/
-
-4 people:
+-4
 http://comediatheque.net/strip-poker/
 http://comediatheque.net/les-copains-davant-et-leurs-copines/
 http://comediatheque.net/nos-pires-amis-2/
@@ -41,25 +37,21 @@ http://comediatheque.net/le-coucou/
 http://comediatheque.net/bed-breakfast/
 http://comediatheque.net/gay-friendly/
 http://comediatheque.net/coup-de-foudre-a-casteljarnac/
-
-5-6 people:
+-5:6
 http://comediatheque.net/sans-fleur-ni-couronne/
 http://comediatheque.net/diagnostic-reserve/
-http://comediatheque.net/crise-et-chatiment/
 http://comediatheque.net/mortelle-saint-sylvestre/
 http://comediatheque.net/il-etait-une-fois-dans-le-web/
 http://comediatheque.net/reveillon-au-poste/
 http://comediatheque.net/un-boulevard-sans-issue/
 http://comediatheque.net/piege-a-cons/
 http://comediatheque.net/flagrant-delire/
-
-7-10 people:
+-7:10
 http://comediatheque.net/le-pire-village-de-france-comedie-de-jean-pierre-martinez/
 http://comediatheque.net/miracle-au-couvent-de-sainte-marie-jeanne/
 http://comediatheque.net/primeurs/
 http://comediatheque.net/bienvenue-a-bord/
 http://comediatheque.net/cafe-des-sports/
-http://comediatheque.net/reveillon-au-poste/
 http://comediatheque.net/erreur-des-pompes-funebres-en-votre-faveur/
 http://comediatheque.net/hors-jeux-interdits/
 http://comediatheque.net/sur-un-plateau/
@@ -67,17 +59,11 @@ http://comediatheque.net/prehistoires-grotesques/
 http://comediatheque.net/le-comptoir/
 http://comediatheque.net/breves-de-trottoirs/
 http://comediatheque.net/avis-de-passage/
-
-10 or more people:
+-10+
 http://comediatheque.net/serie-blanche-et-humour-noir/
 http://comediatheque.net/le-plus-beau-village-de-france/
 http://comediatheque.net/revers-de-decors/
 http://comediatheque.net/apero-tragique-a-beaucon-les-deux-chateaux/
-http://comediatheque.net/cafe-des-sports/
-http://comediatheque.net/miracle-au-couvent-de-sainte-marie-jeanne/
 http://comediatheque.net/heritages-a-tous-les-etages/
-http://comediatheque.net/le-comptoir/
 http://comediatheque.net/bureaux-et-dependances/
-http://comediatheque.net/avis-de-passage/
-http://comediatheque.net/breves-de-trottoirs/
 http://comediatheque.net/un-succes-de-librairie/
