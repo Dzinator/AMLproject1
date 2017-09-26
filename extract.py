@@ -1,14 +1,8 @@
-
-# coding: utf-8
-
-# In[56]:
-
-from bs4 import BeautifulSoup
+import BeautifulSoup
 import urllib2
 import unicodedata
 
 
-# In[70]:
 
 url = 'http://comediatheque.net/le-joker/'
 # url = 'http://comediatheque.net/librairie-theatrale-en-ligne-achat-livre/'
@@ -21,12 +15,10 @@ webpage = unicodedata.normalize("NFKD", webpage).replace('&nbsp;', '')
 
 
 #print webpage
-
 soup = BeautifulSoup(webpage, 'html')
-print soup.prettify()
+print(soup.prettify())
 
 
-# In[62]:
 
 all_pTags = soup.find_all('p')
 # print list_of_pTags
@@ -44,17 +36,14 @@ useful_pTags = all_pTags[ind+1:]
 # useful_pTags is a LIST of bs4.element.Tag objects
 
 
-# In[68]:
-
 text = []
 for k in useful_pTags:
     text.append(k.get_text())
 
-print text
+print(text)
 # text is a list of strings (no <p> or any HTML tags in these strings)
 
 
-# In[ ]:
 
 
 
