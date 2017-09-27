@@ -1714,6 +1714,10 @@
 		<utt uid="2">Je vous écoute…</utt>
 	</s>
 	<s>
+		<utt uid="1">Un salon en désordre. Un homme somnole dans un fauteuil. Tout à coup le téléphone sonne, le sortant de sa torpeur. Il décroche comme un somnambule. Allô !</utt>
+		<utt uid="6">Août 2016</utt>
+	</s>
+	<s>
 		<utt uid="1">Ouais, Fred… Non, je suis dans le train là… J’avais promis à ma femme de l’emmener à Londres pour notre anniversaire de mariage… Je ne suis pas très porté sur les commémorations, et je déteste l’Angleterre, mais bon, tu sais ce que c’est… Quand on est marié, il faut savoir faire des compromis ! C’est à Londres qu’on s’est connu, avec Christelle… J’ai réservé une chambre dans le Bed and Breakfast où on avait passé notre première nuit ensemble… Ce n’est pas romantique, ça ? Une veine que je ne l’ai pas rencontrée au Hilton à Bora Bora… Deux billets de train pour Londres, même en première, c’est quand même moins cher que la Polynésie… En tout cas, heureusement qu’on avait pris de la marge, dis donc… Tu sais que je suis claustrophobe, alors ça m’angoisse un peu de prendre le tunnel sous la Manche… Mais comme je flippe encore plus en avion… Et puis je me disais que ça irait plus vite que le ferry… Mais tu n’imagines pas les procédures d’embarquement, c’est hallucinant ! On a mis trois-quarts d’heure pour passer la sécurité ! J’aurais mieux fait d’y aller à la nage. Moi qui pensais que Londres, c’était encore en Europe. J’ai l’impression de partir pour Bagdad ! Je suis tombé sur un petit teigneux qui ressemblait vaguement à Georges Bush. J’ai cru qu’il allait me mettre un doigt dans le cul pour voir si je n’y planquais pas des armes de destruction massive, avant de m’envoyer direct à Guantanamo… Ils m’ont tellement stressé, pour un peu, j’oubliais de remettre mon pantalon et mes chaussures avant de monter dans le train… Tu me vois arriver à Waterloo pieds nus et en calbute…? À Londres, oui ! Waterloo Station, c’est là où on arrive… Heureusement qu’on ne part pas d’Austerlitz, sinon tu vois le symbole… Pour un anniversaire de mariage, partir tout habillé d’Austerlitz et arriver à poil à Waterloo… Enfin, ça y est, je suis dans l’Eurostar. Je vais pouvoir décompresser un peu… Non, non, je ne sais pas ce qu’elle fout… Je suis passé au bureau de change pour acheter des livres sterling. Je devais la rejoindre dans le train, mais là je ne la vois pas… Pourtant, sa valise est là, je ne comprends pas… Ah excuse-moi, c’est elle justement… Ok, je te rappelle… Salut Fred…</utt>
 		<utt uid="1">Christelle ? Mais qu’est-ce que tu fais ? Au kiosque ? Mais le train va partir là ! Ouais, ben écoute, si ils n’ont pas Marie Claire, tu prends Marie France ou Madame Figaro. C’est pareil, non…Oui, oui, j’ai les livres sterling. Mille, ça devrait suffire pour passer quelques jours à Londres. Ça m’angoisse un peu de me trimballer avec une somme pareille en liquide, mais bon… Il paraît que c’est plus cher de changer sur place… Euh, tu pourrais me prendre L’Équipe, tant que tu y es ? Non, pas France Football, L’Équipe ! Non, ce n’est pas pareil, figure-toi… Bon, ben tu vas bien finir par trouver… Sinon, tu vas voir au kiosque à côté… Mais dépêche-toi, bon sang ! Ok, à tout de suite.Moi aussi, je t’embrasse…</utt>
 		<utt uid="1">Oh, putain, ça commence bien ce voyage…Quarante bornes sous la mer. Moi qui flippe déjà en prenant le tunnel sous Fourvière… Quelle angoisse !.J’ai bien fait d’emmener un petit remontant, ça va me détendre…</utt>
@@ -2131,6 +2135,9 @@
 	<s>
 		<utt uid="3">Mesdames et Messieurs les voyageurs, l’Eurostar numéro 3233 à destination de Paris Gare du Nord va partir. Attention à la fermeture automatique des portes.</utt>
 		<utt uid="2">Excusez-moi de vous importuner, mais je vous ai reconnu tout de suite…</utt>
+	</s>
+	<s>
+		<utt uid="5">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">Oui ? Oui, c’est moi… D’accord… Non, non, je saute dans ma voiture et j’arrive tout de suite. Merci d’avoir appelé…</utt>
@@ -2649,6 +2656,9 @@
 		<utt uid="1">Ah… Il nous a quitté aussi. Je crois qu’il fait du théâtre, maintenant.</utt>
 		<utt uid="2">C’est toujours mieux que d’être mort.</utt>
 		<utt uid="1">Oui… Peut-être…</utt>
+	</s>
+	<s>
+		<utt uid="3">Février 2016</utt>
 	</s>
 	<s>
 		<utt uid="1">Oui Christelle, c’est moi. Écoute… Je viens de me réveiller, là, et… Je ne comprends pas… Je suis sur une sorte de plage… Je ne sais pas si… On avait une escale de prévue ou bien… Mais toi, tu es où ? Bon, rappelle-moi dès que tu as ce message…</utt>
@@ -3376,6 +3386,9 @@
 		<utt uid="2">Après moi, vous voulez dire.</utt>
 		<utt uid="2">Je ne vous savais pas si bon danseur, Capitaine. Vous me faites chavirer…</utt>
 		<utt uid="2">Demain c’est moi qui conduis !</utt>
+	</s>
+	<s>
+		<utt uid="4">Septembre 2015</utt>
 	</s>
 	<s>
 		<utt uid="1">Excusez-moi, vous savez ce qui se passe… ?</utt>
@@ -7370,6 +7383,9 @@
 		<utt uid="2">Banco !</utt>
 	</s>
 	<s>
+		<utt uid="5">Novembre 2011</utt>
+	</s>
+	<s>
 		<utt uid="1">Salut Antoine ! Entre… Estelle n’est pas avec toi ?</utt>
 		<utt uid="2">Si, si, elle est en train de garer la bagnole. Pas facile de trouver une place, dans ton quartier, hein ? Ça fait trois fois qu’on fait le tour. Alors je lui ai dit de me déposer, pour que j’ai le temps d’acheter une bouteille, histoire de pas arriver les mains vides…</utt>
 		<utt uid="1">Neuf.</utt>
@@ -8165,6 +8181,9 @@
 		<utt uid="4">Tu es où, Nicolas ? Regarde-moi bien dans les yeux, et réponds ! T’es où ?</utt>
 		<utt uid="1">Au théâtre ?</utt>
 		<utt uid="3">Vous voyez bien, il délire.</utt>
+	</s>
+	<s>
+		<utt uid="5">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">C’est toi ?</utt>
@@ -9235,6 +9254,9 @@
 		<utt uid="2">Il mériterait d’être un peu plus frais, non ?</utt>
 	</s>
 	<s>
+		<utt uid="6">Novembre 2015</utt>
+	</s>
+	<s>
 		<utt uid="1">Nous interrompons un instant ce programme musical pour rappeler à nos auditeurs l’information qui, depuis ce matin, fait trembler l’Europe et le monde. Pour ceux qui auraient passé les dernières 24 heures sur une île déserte et qui allumeraient seulement leur radio, voici donc le contenu de la dépêche qui est parvenue dans la nuit à notre rédaction : prenant de court toute la communauté internationale en cette période de trêve estivale, la Wallonie vient de déclarer son indépendance, tout en affirmant son intention d’abandonner l’Euro pour revenir au Franc Belge. La Flandre est sur le pied de guerre. Et le Luxembourg masserait des troupes à ses frontières. Nous vous tiendrons bien sûr informés heure par heure de l’évolution de cette crise, dont il est difficile de prévoir pour l’instant si elle restera dans l’histoire comme le tsunami qui ravagea l’Europe… ou une simple tempête dans un bocal.</utt>
 		<utt uid="2">Non.</utt>
 		<utt uid="3">J’avais peur de tomber nez à nez avec une de tes maîtresses. Comme Delphine n’est pas là pendant un mois…</utt>
@@ -9823,6 +9845,10 @@
 		<utt uid="3">C’est à dire…?</utt>
 		<utt uid="2">Il est coincé dans ses toilettes avec son plâtre et il n’arrive plus à ouvrir la porte… Il veut qu’on aille le délivrer…</utt>
 		<utt uid="5">Je crois que ces poissons-là non plus n’étaient pas faits pour vivre ensemble très longtemps…</utt>
+	</s>
+	<s>
+		<utt uid="7">C’était au temps où Bruxelles rêvait, c’était au temps du cinéma muet, c’était au temps où Bruxelles chantait, c’était au temps où Bruxelles bruxellait…</utt>
+		<utt uid="8">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">C’est incroyable, regardez, Kimberley ! On voit la France !</utt>
@@ -10450,6 +10476,9 @@
 	<s>
 		<utt uid="1">Oui…?Ils ont aussi réussi à déboucher les toilettes !</utt>
 		<utt uid="2">Alors tout est bien qui finit bien…</utt>
+	</s>
+	<s>
+		<utt uid="5">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">Il n’y a plus de Pépitos…?</utt>
@@ -11290,6 +11319,11 @@
 		<utt uid="3">Dire qu’on était venus ici pour régler des problèmes de succession… J’ai l’impression qu’on n’est pas sortis de l’auberge…</utt>
 	</s>
 	<s>
+		<utt uid="2">Les souvenirs… Ça prend pas beaucoup de place, mais c’est lourd à porter.</utt>
+		<utt uid="2">C’est bon, j’arrive !J’avais oublié le fémur de papa !Maintenant, la famille est enfin réunie…Enfin c’est un début…</utt>
+		<utt uid="5">Novembre 2011</utt>
+	</s>
+	<s>
 		<utt uid="1">Ils t’ont dit qu’ils arrivaient à quelle heure ?</utt>
 		<utt uid="2">Huit heures et demie. Mais tu sais comment c’est. Avec les embouteillages…</utt>
 		<utt uid="1">Montreuil-sous-Bois Neuilly-sur-Seine… Un jour comme aujourd’hui, ils en ont au moins pour une heure…</utt>
@@ -11977,6 +12011,11 @@
 		<utt uid="1">Nuit Tranquille…</utt>
 	</s>
 	<s>
+		<utt uid="2">Je ne sais pas comment on va leur annoncer ça.</utt>
+		<utt uid="1">Oui… Ça va leur faire un choc.</utt>
+		<utt uid="5">Novembre 2011</utt>
+	</s>
+	<s>
 		<utt uid="1">Oui, oui, j’arrive… Qu’est-ce qu’ils ont tous aujourd’hui à être aussi pressés… Ce n’est pas encore les soldes… Ah, non, je vous jure, ils finiront par avoir ma peau…Picard Pompes Funèbres à votre service…?Oui Monsieur Dumortier, nous allons le recevoir ce matin… Parfaitement, en chêne avec des poignées dorées et un capitonnage vert pomme… La collection automne-hiver, c’est cela… Mais vous savez, le modèle Elisabeth 2, c’est un classique. C’est indémodable. Ce n’est pas le moins cher, c’est vrai, mais je sais que Madame Dumortier était très coquette. Croyez-moi, avec ce modèle-là, on n’est jamais déçu. En tout cas, on n’a jamais eu de réclamation, n’est-ce pas… Mardi, c’est entendu… Au plaisir Monsieur Dumortier… Enfin, je veux dire, euh… À mardi, Monsieur Dumortier… Et encore une fois, toutes nos condoléances…Je commence vraiment à fatiguer, moi…Et merde…Picard Pompes Funèbres à votre service…? Ah, c’est toi, Yvonne… Alors le docteur est passé… ? La grippe évidemment…? Avec l’épidémie qui sévit cet hiver… C’est qu’elle est très virulente, cette année… Ici, le téléphone n’arrête pas de sonner… Heureusement qu’on me livre la nouvelle collection ce matin, parce que si j’avais un imprévu… Je ne dis pas ça pour toi, bien sûr… Mais c’est vrai que je suis complètement débordé. Non, ce n’était vraiment pas le moment que tu tombes malade toi aussi… Tout seul ici, je ne m’en sors pas, moi… Non, l’intérimaire n’est pas encore arrivée. Je ne sais pas ce qu’elle fait, d’ailleurs. Elle devait être là à neuf heures. Ça commence bien, je te jure…Ah, je vois quelqu’un arriver, ça doit être elle. Bon il faut que je te laisse. Soigne-toi bien. Moi aussi, je t’embrasse…</utt>
 		<utt uid="2">Bonjour ! Je suis un peu en retard, je sais…</utt>
 		<utt uid="1">En effet… Une panne d’oreiller, dès le premier jour ?</utt>
@@ -12542,6 +12581,9 @@
 		<utt uid="1">Et maintenant que je suis veuf…</utt>
 		<utt uid="2">Ah, à propos, j’ai trouvé ça dans les cendres de Madame Picard…Je croyais que votre femme était morte de la grippe…</utt>
 		<utt uid="1">Je vous l’ai dit… la grippe est très virulente, cette année…</utt>
+	</s>
+	<s>
+		<utt uid="5">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">Ce n’est pas trop tôt… Vingt minutes de l’aéroport, tu parles !</utt>
@@ -13364,6 +13406,9 @@
 		<utt uid="4">Allo, oui… ?C’est le propriétaire de la maison. Il demande si nos vacances se passent bien. Qu’est-ce que je lui dis ?</utt>
 	</s>
 	<s>
+		<utt uid="6">Novembre 2011</utt>
+	</s>
+	<s>
 		<utt uid="1">Allez, c’est l’heure de dormir, maintenant… Pourquoi tu pleures comme ça ? Tu n’as aucune raison de pleurer ! Moi, oui, j’aurais de bonnes raisons de pleurer, mais toi ? Quelles raisons tu pourrais bien avoir pour chialer comme ça ? Tu as l’estomac plein, les fesses propres. Tu passes tes journées à regarder des images psychédéliques au plafond en écoutant de la musique planante. Qu’est-ce que tu veux encore ? Ton doudou ? Je t’ai déjà expliqué : maman a oublié ton ourson hier sur le toit de la Twingo de mamy, il s’est envolé sur l’autoroute et un gros camion a roulé dessus. On a réussi à retrouver une jambe, mais le reste a dû être broyé en passant sous les roues. Tu veux que je donne la jambe quand même ?</utt>
 		<utt uid="1">Tiens, mais je te préviens, ce n’est pas beau à voir… C’est plein de cambouis et ça sent le gasoil…</utt>
 		<utt uid="1">Alléluia ! Si je pouvais enfin avoir un peu la paix…</utt>
@@ -13985,6 +14030,9 @@
 		<utt uid="1">Celui-là c’est Orphée.</utt>
 		<utt uid="1">Et celle-là Eurydice… Ce sont des jumeaux. Un truc de famille, sûrement…</utt>
 		<utt uid="2">Orphée et Eurydice… Oh, putain… C’est l’enfer… Enfin, je veux dire, c’est merveilleux.</utt>
+	</s>
+	<s>
+		<utt uid="7">Mai 2012</utt>
 	</s>
 	<s>
 		<utt uid="1">Ils ne viendront pas.</utt>
@@ -14769,6 +14817,9 @@
 		<utt uid="1">Quoi ?</utt>
 		<utt uid="2">Le métro !</utt>
 		<utt uid="1">Non…</utt>
+	</s>
+	<s>
+		<utt uid="6">Juin 2014</utt>
 	</s>
 	<s>
 		<utt uid="1">Je ne sais plus… Ça doit être marqué dessus… J’ai tout noté pour qu’on puisse s’y retrouver quand il faudra déballer tout ça…</utt>
@@ -15618,6 +15669,11 @@
 		<utt uid="2">Viens, je vais te montrer où ça commence, de tromper son mari… Avant que je ne sois grosse comme une vache…</utt>
 	</s>
 	<s>
+		<utt uid="1">Excuse-moi mais… Je te rappelle qu’on n’a plus de lit.</utt>
+		<utt uid="2">Parfait… Comme ça… Ça ressemblera encore plus à un adultère….</utt>
+		<utt uid="5">Novembre 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">Tu es vraiment sûr que tu ne veux pas venir…?</utt>
 		<utt uid="2">Je préférerais, crois-moi… Mais je t’ai dit. Il faut absolument que je termine ce scénar pour lundi…</utt>
 		<utt uid="1">Ça fait six mois que tu es dessus. Ça ne pourrait pas encore attendre jusqu’à demain matin ?</utt>
@@ -16177,6 +16233,9 @@
 		<utt uid="1">On reparlera de tout ça quand tu auras dessoulé, d’accord ?</utt>
 		<utt uid="1">Et il faudra aussi que tu m’expliques comment tes cambrioleurs ont pu oublier ça dans la machine à laver. Parce que ce n’est pas à moi…</utt>
 		<utt uid="2">Une soirée d’enfer, je te dis…</utt>
+	</s>
+	<s>
+		<utt uid="6">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">Tu es vraiment sûr que tu ne veux pas venir…?</utt>
@@ -17415,6 +17474,9 @@
 		<utt uid="3">Tu sais… C’est le genre de créature à qui on a du mal à dire non…</utt>
 	</s>
 	<s>
+		<utt uid="5">Mai 2015</utt>
+	</s>
+	<s>
 		<utt uid="1">Mais qu’est-ce que tu fais ?</utt>
 		<utt uid="2">Je corrige mes copies ! Qu’est-ce que tu veux que je fasse ?</utt>
 		<utt uid="1">Je te rappelle qu’on a des invités… Ils arrivent dans une demi-heure ! Tu aurais pu commencer à préparer…</utt>
@@ -18174,6 +18236,10 @@
 		<utt uid="4">Surtout pas pour Noël.</utt>
 	</s>
 	<s>
+		<utt uid="3">Finalement, tu as raison… Je me demande si on n’en a pas fait un peu trop, quand même…</utt>
+		<utt uid="5">Janvier 2013</utt>
+	</s>
+	<s>
 		<utt uid="1">Par ici, je vous en prie… Voici votre bureau, cher Monsieur.</utt>
 		<utt uid="1">C’est un peu austère, je sais. Mais si vous souhaitez égayer un peu tout ça en accrochant quelques tableaux contre les murs.</utt>
 		<utt uid="2">Pourquoi pas…</utt>
@@ -18754,6 +18820,9 @@
 		<utt uid="2">Tu vas rire, mais j’ai rêvé que tu étais ma femme.</utt>
 		<utt uid="5">Mais Jérôme… Je suis ta femme…</utt>
 		<utt uid="2">Ah… Dans ce cas je crois que ce cauchemar n’est pas encore tout à fait terminé…</utt>
+	</s>
+	<s>
+		<utt uid="7">Juin 2012</utt>
 	</s>
 	<s>
 		<utt uid="1">On est toujours sans nouvelles du dangereux schizophrène qui s’est échappé de l’hôpital psychiatrique de Knokke le Zoute, où il était interné après avoir décapité sa femme avec…</utt>
@@ -20042,6 +20111,9 @@
 		<utt uid="2">Quand on sera à la campagne, il faudra que t’en replantes.</utt>
 	</s>
 	<s>
+		<utt uid="5">Novembre 2011</utt>
+	</s>
+	<s>
 		<utt uid="1">Quelle tranquillité… Le matin, c’est le chant des oiseaux qui me tire du lit, au lieu de la sonnerie de mon portable… Ça fait déjà presque trois mois qu’on est là, et je n’arrive pas encore à y croire… J’ai l’impression d’être au paradis.</utt>
 		<utt uid="2">Le calme avant la tempête…</utt>
 		<utt uid="1">Ça n’est que le paradis sur terre. Il faut bien continuer à gagner sa vie à la sueur de son front. Toi, évidemment, tu peux peindre n’importe tout : c’est moi ton modèle…</utt>
@@ -20947,6 +21019,9 @@
 	<s>
 		<utt uid="2">On n’entend plus rien.</utt>
 		<utt uid="1">Tu es sûr que ce n’était pas les chèvres ?</utt>
+	</s>
+	<s>
+		<utt uid="6">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">3 femmes</utt>
@@ -22425,6 +22500,9 @@
 		<utt uid="2">Et il paraît que cela adoucit les mœurs.</utt>
 	</s>
 	<s>
+		<utt uid="6">Décembre 2013</utt>
+	</s>
+	<s>
 		<utt uid="1">Crématorium de Beaucon-le-Château, à votre service… Monsieur Jean-Luc Ramirez ? Attendez, je consulte mon planning…Oui Madame, je vous le confirme, c’est bien ici qu’aura lieu l’incinération. C’est cela, à 15 heures 35 précises. Très bien Madame… À votre service Madame… À bientôt Madame…</utt>
 		<utt uid="1">Jean-Luc Ramirez… Tu parles d’un nom à la con… Enfin… Paix à ses cendres.</utt>
 		<utt uid="1">Ouah, ça réveillerait un mort !</utt>
@@ -23159,6 +23237,9 @@
 		<utt uid="5">Je m’occupe de la valise…</utt>
 		<utt uid="1">Ah, ok. Alors à tout à l’heure…</utt>
 		<utt uid="5">Roissy ? Je voudrais savoir à quelle heure est votre prochain vol pour Bruxelles…</utt>
+	</s>
+	<s>
+		<utt uid="6">Août 2014</utt>
 	</s>
 	<s>
 		<utt uid="1">Il fait une chaleur, dans ces hôpitaux. Ça donne envie d’ouvrir une clinique privée rien que pour avoir la clim.</utt>
@@ -24044,6 +24125,9 @@
 		<utt uid="1">Dans ce cas-là, il n’y a plus qu’à attendre…</utt>
 	</s>
 	<s>
+		<utt uid="8">Février 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">Il y a quelqu’un ?</utt>
 		<utt uid="1">Oh putain, tu m’as fait peur…</utt>
 		<utt uid="2">Désolée, la porte était ouverte, je suis entrée.</utt>
@@ -24871,6 +24955,9 @@
 		<utt uid="2">Je ne suis pas sûre de vouloir entendre ça…</utt>
 	</s>
 	<s>
+		<utt uid="7">Janvier 2016</utt>
+	</s>
+	<s>
 		<utt uid="1">Où est-ce qu’ils sont tous ? On n’avait pas dit neuf heures ?</utt>
 		<utt uid="2">Il est huit heures cinquante neuf…</utt>
 		<utt uid="1">Cinquante neuf… Vous n’êtes pas comptable pour rien, vous.</utt>
@@ -25546,6 +25633,10 @@
 		<utt uid="2">Vous allez voir…</utt>
 	</s>
 	<s>
+		<utt uid="1">La Société Générale, oui… Écoutez, soyez complètement rassurés au sujet de notre découvert bancaire. J’attendais d’être tout à fait sûre pour vous appeler, mais maintenant je peux vous le dire avec certitude : tous nos petits problèmes sont définitivement réglés…</utt>
+		<utt uid="6">Mai 2012</utt>
+	</s>
+	<s>
 		<utt uid="1">Paire de dames.</utt>
 		<utt uid="2">Paire de rois.</utt>
 		<utt uid="1">Et merde…</utt>
@@ -26145,6 +26236,10 @@
 		<utt uid="1">À moins que ce soit le vrai Père Noël…</utt>
 		<utt uid="2">Tu veux dire celui qui nique ta mère ?</utt>
 		<utt uid="1">Oh putain, cette fois, je ne vais pas le rater !</utt>
+	</s>
+	<s>
+		<utt uid="2">Tu aurais au moins pu attendre qu’il nous donne notre petit cadeau.</utt>
+		<utt uid="14">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">Quoi ? Le réchauffement climatique ?</utt>
@@ -26802,6 +26897,13 @@
 		<utt uid="1">Mais j’imagine qu’il n’a pas osé venir assister au spectacle.</utt>
 		<utt uid="4">Je crois qu’il vaut mieux qu’on s’en aille. Avec un peu de chance, les quelques spécimens du Peuple Français qui sont dans cette salle comprendront que c’est fini.</utt>
 		<utt uid="1">Je savais bien que ce boulevard était sans issue…</utt>
+	</s>
+	<s>
+		<utt uid="8">Juin 2016</utt>
+	</s>
+	<s>
+		<utt uid="1">sans interdit, Série blanche et humour noir, Sketchs en série, Spéciale dédicace, Strip Poker, Sur un plateau, Les Touristes, Un boulevard sans issue, Un cercueil pour deux, Un mariage sur deux, Un os dans les dahlias, Une soirée d’enfer, Vendredi 13, Y a-t-il un pilote dans la salle ?</utt>
+		<utt uid="2">Mars 2017</utt>
 	</s>
 	<s>
 		<utt uid="1">Navarrin, j’écoute… Bonjour Monsieur… Non, le Commissaire Ramirez nous a quitté, malheureusement…</utt>
@@ -27684,6 +27786,9 @@
 	</s>
 	<s>
 		<utt uid="10">À Shakespeare !</utt>
+	</s>
+	<s>
+		<utt uid="11">Octobre 2015</utt>
 	</s>
 	<s>
 		<utt uid="1">Bonjour Robert. Madame Ginette, mes hommages.</utt>
@@ -28915,6 +29020,9 @@
 		<utt uid="5">En tout cas, ma sœur, pour vous, je suis prêt à me défroquer tout de suite.</utt>
 	</s>
 	<s>
+		<utt uid="12">mai 2015</utt>
+	</s>
+	<s>
 		<utt uid="1">Même si nous parvenions à multiplier ces petits pains… À 50 centimes pièce, ce n’est pas avec ces marque-pages que nous allons faire du chiffre.</utt>
 		<utt uid="2">Allons, Sœur Prudence, gardons au moins la foi !Malheureusement, vous n’avez pas tout à fait tort… D’ailleurs on n’a pas vu grand monde depuis ce matin.</utt>
 		<utt uid="1">Même nos paroissiens les plus fidèles préfèrent aller au Centre Commercial pour leurs cadeaux de Noël.</utt>
@@ -29945,6 +30053,9 @@
 		<utt uid="5">Encore un miracle de Sainte Marie-Jeanne…</utt>
 	</s>
 	<s>
+		<utt uid="15">Décembre 2015</utt>
+	</s>
+	<s>
 		<utt uid="1">Faut pas vous gêner !</utt>
 		<utt uid="2">Quoi ? Qu’est-ce qu’il y a ?</utt>
 		<utt uid="1">Vous tripotez cette banane, et vous la reposez dans le cageot…</utt>
@@ -30605,6 +30716,11 @@
 		<utt uid="3">Et puis je suis allé au théâtre hier soir, et vous jouiez déjà le rôle d’un commissaire.</utt>
 		<utt uid="7">C’est mon emploi, paraît-il. Et le second rôle, vous le trouvez comment ?</utt>
 		<utt uid="3">Votre assistant ? Très mauvais aussi…</utt>
+	</s>
+	<s>
+		<utt uid="7">Ce n’était pas de vraies menottes, de toutes façons. Vous croyez qu’on va nous lancer des tomates ?</utt>
+		<utt uid="3">J’espère… Il faut bien que je renouvelle mon stock de primeurs…</utt>
+		<utt uid="11">Janvier 2013</utt>
 	</s>
 	<s>
 		<utt uid="1">J’espère qu’ils vont nous la prendre, parce que sinon je ne sais vraiment pas ce qu’on va en faire…</utt>
@@ -31365,6 +31481,9 @@
 		<utt uid="7">Et c’est qui le père ?Je déconne…</utt>
 		<utt uid="6">Bon ben qu’est-ce qu’on peut lui souhaiter alors à cet enfant ?</utt>
 		<utt uid="5">Capitaine, un mot de bienvenue ?</utt>
+	</s>
+	<s>
+		<utt uid="8">Si la vieillesse est un naufrage, comme disait Châteaubriand en citant De Gaulle, c’est que la vie est une croisière sur le Titanic. Certains se prélassent sur le pont dans des transats, pendant que les autres rament dans la soute. Mais tout le monde finira par servir de nourriture aux méduses. Alors en attendant l’inévitable rencontre avec un iceberg, pour ceux qui le peuvent, au son de l’orchestre, autant faire teinter ses glaçons dans son verre.</utt>
 	</s>
 	<s>
 		<utt uid="1">Mais oui.</utt>
@@ -32520,6 +32639,9 @@
 		<utt uid="2">Ça fait toujours du bien de vider son sac…</utt>
 	</s>
 	<s>
+		<utt uid="13">Mai 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">N’approchez pas ! Je vous préviens, j’ai fait du karaté…</utt>
 		<utt uid="2">Vous êtes qui, vous ?</utt>
 		<utt uid="2">En tout cas, on n’est pas chez moi.(Ilregarde autour de lui)Vous êtes sûre qu’on n’est pas chez vous ?</utt>
@@ -33650,6 +33772,11 @@
 		<utt uid="3">Vous venez pour les calendriers ?</utt>
 	</s>
 	<s>
+		<utt uid="6">On vient pour le match retour.</utt>
+		<utt uid="8">On n’est pas hors-jeu ?</utt>
+		<utt uid="9">mars 2015</utt>
+	</s>
+	<s>
 		<utt uid="1">Momo !</utt>
 		<utt uid="2">Ouais ?</utt>
 		<utt uid="1">Une Volonté, Un Destin, c’est bien le plateau numéro 2 ?</utt>
@@ -34411,6 +34538,9 @@
 		<utt uid="3">Allez, on y retourne direct. Vous êtes prêts à la régie ? Générique.</utt>
 	</s>
 	<s>
+		<utt uid="16">Janvier 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">Il n’a pas l’air de faire chaud dehors.</utt>
 		<utt uid="2">Je me demande si on ne va pas vers une nouvelle période glaciaire.</utt>
 		<utt uid="1">Heureusement que ton homme vient de t’offrir un nouveau manteau de fourrure.</utt>
@@ -35012,6 +35142,9 @@
 		<utt uid="4">En tout cas, c’est la fin de cette préhistoire.</utt>
 	</s>
 	<s>
+		<utt uid="9">Décembre 2012</utt>
+	</s>
+	<s>
 		<utt uid="1">Qu’est-ce que tu prends ?</utt>
 		<utt uid="2">Je ne sais pas… Un petit ballon ?</utt>
 		<utt uid="1">Rouge ? Blanc ?</utt>
@@ -35603,6 +35736,10 @@
 		<utt uid="1">Pourquoi pas.</utt>
 		<utt uid="2">Laisse, je paierai en partant. Tu as mon numéro, tu me tiens au courant ?</utt>
 		<utt uid="1">D’accord…</utt>
+	</s>
+	<s>
+		<utt uid="2">Et voilà, maintenant il est froid…</utt>
+		<utt uid="17">Novembre 2011</utt>
 	</s>
 	<s>
 		<utt uid="1">Excusez-moi, vous savez où elle va, cette rue ?</utt>
@@ -36737,6 +36874,9 @@
 		<utt uid="12">Quoi, qu’est-ce que j’ai ?</utt>
 	</s>
 	<s>
+		<utt uid="15">Mars 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">Excusez-moi… Je peux entrer avec vous… Je n’ai pas le code…</utt>
 		<utt uid="2">Euh… Oui… Enfin… Vous voulez dire que vous n’avez pas le code ?</utt>
 		<utt uid="1">Oui… C’est ce que je viens de vous dire, non ?</utt>
@@ -37564,6 +37704,9 @@
 		<utt uid="5">Je n’ai rien compris…</utt>
 	</s>
 	<s>
+		<utt uid="12">Janvier 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">Bonjour Sœur Emmanuelle, tout va bien ?</utt>
 		<utt uid="2">Bonjour Docteur Müller. Vous m’avez fait peur…</utt>
 		<utt uid="1">Je suis vraiment désolé. Mais appelez-moi Gunter…</utt>
@@ -38304,6 +38447,9 @@
 		<utt uid="12">Tenez, voici le Docteur Müller. Avec sa Fondation, financée par de généreux donateurs en fin de vie comme Berthe, il s’occupe des orphelins qui n’ont pas de parents, comme vous. Il a sûrement une solution pour que vous ne restiez pas seul un soir de réveillon. N’est-ce pas, Docteur ?</utt>
 		<utt uid="13">Merci Commissaire.</utt>
 		<utt uid="12">Je vous abandonne, Sanchez… On m’attend à la maison. Et c’est moi qui suis chargé de fourrer la dinde… Joyeux Noël à tous !</utt>
+	</s>
+	<s>
+		<utt uid="15">Octobre 2013</utt>
 	</s>
 	<s>
 		<utt uid="1">C’est calme aujourd’hui.</utt>
@@ -39167,6 +39313,11 @@
 		<utt uid="12">Le Maire en personne se fera un plaisir de les marier, n’est-ce pas Madame la Baronne ?</utt>
 	</s>
 	<s>
+		<utt uid="1">Le mariage du RMI et de l’ISF…</utt>
+		<utt uid="2">Une autre façon de régler la lutte des classes dans le Plus Beau Village de France.</utt>
+		<utt uid="14">Octobre 2013</utt>
+	</s>
+	<s>
 		<utt uid="1">Je ne vois plus rien, Natacha. Le soleil a disparu derrière la colline. Mais je crois deviner dans cette noire obscurité la présence des fantômes qui s’apprêtent à nous hanter.</utt>
 		<utt uid="2">Quelle heure est-il à présent ?</utt>
 		<utt uid="1">Je l’ignore… Ma montre s’est s’arrêtée ce matin.</utt>
@@ -39864,6 +40015,10 @@
 		<utt uid="15">Quoi encore ?</utt>
 		<utt uid="4">Je ne vous parle pas, à vous ! Je parle à l’ouvreuse : Rideau !</utt>
 		<utt uid="15">Vous croyez vraiment qu’on aura les moyens de se payer un rideau ?</utt>
+	</s>
+	<s>
+		<utt uid="5">Bon ben, je ne sais pas moi… Un noir au moins !</utt>
+		<utt uid="16">Décembre 2012</utt>
 	</s>
 	<s>
 		<utt uid="1">Il est sept heures.</utt>
@@ -41158,6 +41313,10 @@
 		<utt uid="7">Personne n’est parfait…</utt>
 	</s>
 	<s>
+		<utt uid="10">Et dire qu’on n’en est qu’à l’apéritif.</utt>
+		<utt uid="20">Août 2014</utt>
+	</s>
+	<s>
 		<utt uid="1">Ouah !</utt>
 		<utt uid="2">Je t’avais prévenue, il y a un peu de rafraichissement à prévoir…</utt>
 		<utt uid="1">Tu parles comme un agent immobilier. Je te rappelle que tu es le propriétaire.</utt>
@@ -42294,6 +42453,10 @@
 		<utt uid="8">Oh… Je ne suis pas superstitieuse.</utt>
 	</s>
 	<s>
+		<utt uid="10">C’était vraiment une salope…</utt>
+		<utt uid="18">Août 2015</utt>
+	</s>
+	<s>
 		<utt uid="1">Tu savais que les particules peuvent se trouver à deux endroits différents en même temps ?</utt>
 		<utt uid="2">Les particules ?</utt>
 		<utt uid="1">Les particules élémentaires ! Les photons, si tu préfères. D’après les lois de la physique quantique, en tout cas.</utt>
@@ -43031,6 +43194,9 @@
 		<utt uid="42">Je ne vous ai pas encore dit où j’habitais.</utt>
 		<utt uid="41">Mais je sais déjà que c’est sur mon chemin.</utt>
 		<utt uid="42">La magie de Noël…</utt>
+	</s>
+	<s>
+		<utt uid="43">Octobre 2013</utt>
 	</s>
 	<s>
 		<utt uid="1">Ça va peut-être suffire, pour les coupes, non ? On ne va pas être si nombreux que ça…</utt>
@@ -44524,5 +44690,10 @@
 		<utt uid="14">Et puis je suis allé au théâtre hier soir, et vous jouiez déjà le rôle d’un commissaire.</utt>
 		<utt uid="9">C’est mon emploi, paraît-il. Et le second rôle, vous le trouvez comment ?</utt>
 		<utt uid="14">Votre assistant ? Très mauvais aussi…</utt>
+	</s>
+	<s>
+		<utt uid="9">Ce n’était pas de vraies menottes, de toutes façons. Vous croyez qu’on va nous lancer des tomates ?</utt>
+		<utt uid="14">J’espère… Il faut bien que je renouvelle mon stock de primeurs…</utt>
+		<utt uid="17">Mai 2015</utt>
 	</s>
 </dialog>
