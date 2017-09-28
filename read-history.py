@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[36]:
+# In[ ]:
 
 from bs4 import BeautifulSoup
 import urllib
@@ -9,17 +9,15 @@ import unicodedata
 import re
 
 
-# In[37]:
+# In[ ]:
 
 #read hyperlinks of plays 
 links = []
-with open('drama-links.txt', 'r') as f:
+with open('history-links.txt', 'r') as f:
     for line in f.readlines():
         if str(line)[0] != '-':
             links.append(str(line).strip())
     
-
-# url = 'http://comediatheque.net/le-joker/'
 # url = 'https://fr.wikisource.org/w/index.php?title=Danton_(Romain_Rolland)/Acte_I&printable=yes'
 # links.append(url)
 
@@ -28,7 +26,7 @@ for url in links:
     webpages.append(urllib.urlopen(url).read())
 
 
-# In[38]:
+# In[ ]:
 
 webpage = webpages[0]
 # print(webpage)
@@ -77,6 +75,9 @@ def parse_webpage(webpage):
 
         ut_s = ''
         dialog_p = t.find_next('p')
+        
+        if not dialog_p:
+            continue
 
         #collapse all contained strings in one
         for s in dialog_p.stripped_strings:    
@@ -101,17 +102,18 @@ def parse_webpage(webpage):
                 dialogs.append(current_dialog)
                 current_dialog = []
     dialogs.append(current_dialog)
+    print len(speakers)
     return dialogs
 
 
-# In[39]:
+# In[ ]:
 
 plays = []
 for page in webpages:
     plays.append(parse_webpage(page))
 
 
-# In[40]:
+# In[ ]:
 
 result = '<dialog>\n'
 total_conversations = 0
@@ -140,7 +142,7 @@ for play in plays:
         avg = float(nb_utt)/float(nb_conversations)
     else:
         avg = 'n/a'
-    print '', nb_conversations, ', ', nb_utt, ', ', avg, ', ', len(speakers)
+    print '', nb_conversations, ', ', nb_utt, ', ', avg
 
 if total_conversations > 0:
     avg = float(total_utt)/float(total_conversations)
@@ -151,7 +153,7 @@ print '', total_conversations,', ', total_utt, ', ', avg
 
 result += '</dialog>'
 
-with open('result_drama.xml', 'w') as f:
+with open('result_history.xml', 'w') as f:
 #     f.write(str(speakers))
     f.write(result)
     

@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[245]:
+# In[10]:
 
 from bs4 import BeautifulSoup
 import urllib
@@ -9,7 +9,7 @@ import unicodedata
 import re
 
 
-# In[253]:
+# In[11]:
 
 #read hyperlinks of plays 
 links = []
@@ -27,7 +27,7 @@ for url in links:
     webpages.append(urllib.urlopen(url).read())
 
 
-# In[260]:
+# In[12]:
 
 def parse_webpage(webpage):
     
@@ -114,19 +114,20 @@ def parse_webpage(webpage):
             if len(current_dialog) > 2:
                 dialogs.append(current_dialog)
                 current_dialog = []
-                
+    dialogs.append(current_dialog)         
+    print len(speakers)
     return dialogs
     # print speakers
 
 
-# In[261]:
+# In[13]:
 
 plays = []
 for page in webpages:
     plays.append(parse_webpage(page))
 
 
-# In[266]:
+# In[14]:
 
 result = '<dialog>\n'
 total_conversations = 0
@@ -155,14 +156,14 @@ for play in plays:
         avg = float(nb_utt)/float(nb_conversations)
     else:
         avg = 'n/a'
-    print '<s>', nb_conversations, '<utt>', nb_utt, 'avg utt/s', avg
+    print '', nb_conversations, ', ', nb_utt, ', ', avg
 
 if total_conversations > 0:
     avg = float(total_utt)/float(total_conversations)
 else:
     avg = 'n/a'
-print 'Total'
-print '<s>', total_conversations,'<utt>', total_utt, 'avg utt/s', avg
+print 'Total, , '
+print '', total_conversations,', ', total_utt, ', ', avg
 
 result += '</dialog>'
 
