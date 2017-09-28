@@ -13,19 +13,8 @@ sample interviews, released by authors through free sources on
 the web as well as language tutorials that feature conversations
 in French.
 
-Extracted dialogs are in an XML format like this:
-`<dialog>
-	<s>
-		<utt uid=”1”>Hey, how are you?</utt>
-		<utt uid=”2”>I’m fine thank you!</utt>
-		<utt uid=”1”>Nice!</utt>
-	</s>
-	<s>
-		<utt uid=”1”>Who’s around for lunch?</utt>
-		<utt uid=”2”>Me!</utt>
-		<utt uid=”3”>Me too!</utt>
-	</s>
-</dialog>`
+Extracted dialogs are in an XML where each 's' mark down is a 
+conversation and each 'utt' is an utterance:
 
 Combined resulting corpus can be found at:
 https://drive.google.com/open?id=0B1ItK6JlQ6ImRXAzMm1jSU9aOTA
